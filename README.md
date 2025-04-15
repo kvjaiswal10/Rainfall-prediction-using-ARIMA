@@ -20,8 +20,7 @@ This project implements a rainfall prediction model using the ARIMA (AutoRegress
 5. If the series is non-stationary, apply differencing.
 
 ## Model
-- **Algorithm**: ARIMA
-- **Order**: (4,0,2)
+- **Algorithm**: SARIMA
 - **Evaluation Metric**: Root Mean Squared Error (RMSE)
 
 ## ARIMA Model Description
